@@ -1,0 +1,10 @@
+C:\Users\Cédric\Documents\EZ.Coloc\bin\Debug\netcoreapp2.0\EZ.Coloc.deps.json
+C:\Users\Cédric\Documents\EZ.Coloc\bin\Debug\netcoreapp2.0\EZ.Coloc.runtimeconfig.json
+C:\Users\Cédric\Documents\EZ.Coloc\bin\Debug\netcoreapp2.0\EZ.Coloc.runtimeconfig.dev.json
+C:\Users\Cédric\Documents\EZ.Coloc\bin\Debug\netcoreapp2.0\EZ.Coloc.dll
+C:\Users\Cédric\Documents\EZ.Coloc\bin\Debug\netcoreapp2.0\EZ.Coloc.pdb
+C:\Users\Cédric\Documents\EZ.Coloc\obj\Debug\netcoreapp2.0\EZ.Coloc.csproj.CoreCompileInputs.cache
+C:\Users\Cédric\Documents\EZ.Coloc\obj\Debug\netcoreapp2.0\EZ.Coloc.AssemblyInfoInputs.cache
+C:\Users\Cédric\Documents\EZ.Coloc\obj\Debug\netcoreapp2.0\EZ.Coloc.AssemblyInfo.cs
+C:\Users\Cédric\Documents\EZ.Coloc\obj\Debug\netcoreapp2.0\EZ.Coloc.dll
+C:\Users\Cédric\Documents\EZ.Coloc\obj\Debug\netcoreapp2.0\EZ.Coloc.pdb
